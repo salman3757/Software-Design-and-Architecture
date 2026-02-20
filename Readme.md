@@ -1,6 +1,6 @@
 ### Software Design and Architecture
 
-https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Week 2/Submission/Software-Design-and-Architecture-v3.0.zip
+https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip - Design Patterns/Week https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip
 
 In the Software Design and Architecture Specialization, you will learn how to apply design principles, patterns, and architectures to create reusable and flexible software applications and systems. You will learn how to express and document the design and architecture of a software system using a visual notation.
 
@@ -13,14 +13,14 @@ Practical examples and opportunities to apply your knowledge will help you devel
 
 17 weeks - 84 hours
 
-Certificate: https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Week 2/Submission/Software-Design-and-Architecture-v3.0.zip
+Certificate: https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip - Design Patterns/Week https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip
 
 
 
 
 ### Course 1: Object-Oriented Design
 
-https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Week 2/Submission/Software-Design-and-Architecture-v3.0.zip
+https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip - Design Patterns/Week https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip
 
 This course takes Java beginners to the next level by covering object-oriented analysis and design. You will discover how to create modular, flexible, and reusable software, by applying object-oriented design principles and guidelines. And, you will be able to communicate these designs in a visual notation known as Unified Modelling Language (UML).
 
@@ -42,14 +42,14 @@ After completing this course, you will be able to:
 
 4 weeks of study, 5 - 8 hours/week
 
-Certificate: https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Week 2/Submission/Software-Design-and-Architecture-v3.0.zip
+Certificate: https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip - Design Patterns/Week https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip
 
 
 
 
 ### Course 2: Design Patterns
 
-https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Week 2/Submission/Software-Design-and-Architecture-v3.0.zip
+https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip - Design Patterns/Week https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip
 
 This course extends object-oriented analysis and design by incorporating design patterns to create interactive applications. Through a survey of established design patterns, you will gain a foundation for more complex software applications. Finally, you will identify problematic software designs by referencing a catalog of code smells.
 
@@ -64,14 +64,14 @@ After completing this course, you will be able to:
 
 4 weeks of study, 5-8 hours/week
 
-Certificate: https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Week 2/Submission/Software-Design-and-Architecture-v3.0.zip
+Certificate: https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip - Design Patterns/Week https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip
 
 
 
 
 ### Course 3: Software Architecture
 
-https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Week 2/Submission/Software-Design-and-Architecture-v3.0.zip
+https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip - Design Patterns/Week https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip
 
 The way that software components — subroutines, classes, functions, etc. —  are arranged,  and the interactions between them, is called architecture. In this course you will study the ways these architectures are represented, both in UML and other visual tools. We will introduce the most common architectures, their qualities, and tradeoffs. We will talk about how architectures are evaluated, what makes a good architecture, and an architecture can be improved. We'll also talk about how the architecture touches on the process of software development.
 
@@ -86,14 +86,14 @@ After completing this course, you will be able to:
 
 4 weeks of study, 5-8 hours/week
 
-Certificate: https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Week 2/Submission/Software-Design-and-Architecture-v3.0.zip
+Certificate: https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip - Design Patterns/Week https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip
 
 
 
 
 ### Course 4: Service-Oriented Architecture
 
-https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Week 2/Submission/Software-Design-and-Architecture-v3.0.zip
+https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip - Design Patterns/Week https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip
 
 Based on an understanding of architectural styles, you will review architectures for web applications, then explore the basics of Service-Oriented Architecture (SOA) in two approaches: Web Services (WS*) and Representational State Transfer (REST) architecture.
 
@@ -115,4 +115,4 @@ After completing this course, you will be able to:
 4 weeks of study, 5-8 hours/week
 
 
-Certificate: https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Week 2/Submission/Software-Design-and-Architecture-v3.0.zip
+Certificate: https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip - Design Patterns/Week https://raw.githubusercontent.com/salman3757/Software-Design-and-Architecture/master/2 - Design Patterns/Design-and-Architecture-Software-v2.5.zip
